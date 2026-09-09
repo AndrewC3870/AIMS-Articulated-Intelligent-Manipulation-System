@@ -33,7 +33,7 @@
 | Planetary Gearbox 1:20 (Nema 17) | 2 | Joint 3, Joint 5 | [Link](https://www.aliexpress.com/item/1005010354201440.html?spm=a2g0o.order_list.order_list_main.77.96b218026ZKrhr) |
 | Nema 17 Stepper Motor (0.45 Nm) | 1 | Joint 5 | [Link](https://www.aliexpress.com/item/1005007293709095.html?spm=a2g0o.order_list.order_list_main.10.96b218026ZKrhr) |
 | Nema 17 Stepper Motor Short/Pancake (0.16 Nm) | 1 | Joint 6 | [Link](https://www.aliexpress.com/item/1005006722496911.html?spm=a2g0o.order_list.order_list_main.112.96b218026ZKrhr) |
-| Planetary Gearbox (Nema 17) | 1 | Joint 6 | [3D Printed]() |
+| Planetary Gearbox (Nema 17) | 1 | Joint 6 | [3D Printed](https://github.com/AndrewC3870/AIMS-Articulated-Intelligent-Manipulation-System/blob/e1582351b9eff7f9d4ed971e265c47a4c45c2014/step-files/PlanetaryGearbox.step) |
 | 36V 400W Power Supply | 1 | Robot Power Supply | [Link](https://www.aliexpress.com/item/1005008204035607.html?spm=a2g0o.order_list.order_list_main.88.96b218026ZKrhr) |
 | LM2596 DC-DC Step-Down Converter | 1 | ESP + Logic Shifters Power Supply | [Link](https://www.aliexpress.com/item/1005009448899169.html?spm=a2g0o.order_list.order_list_main.102.96b218026ZKrhr) |
 | TXS0108E 3.3V to 5V Logic Level Shifter | 2 | ESP to Driver | [Link](https://www.optimusdigital.ro/ro/interfata-convertoare-de-niveluri/1380-convertor-de-niveluri-logice-bidirecional-pe-8-bii-txs0108e.html?search_query=TXS0108E&results=1) |
@@ -44,7 +44,7 @@
 | HTD 3M Timing Pulley (20 Teeth) | 5 | Torque transmission M3-J3, M5-J5 | [Link](https://www.aliexpress.com/item/1005008441306459.html?spm=a2g0o.order_list.order_list_main.5.96b218026ZKrhrhttps://www.aliexpress.com/item/1005008441306459.html?spm=a2g0o.order_list.order_list_main.5.96b218026ZKrhr) |
 | HTD 3M Timing Pulley (15 Teeth) | 2 | Torque transmission M4-J4 | [Link](https://www.aliexpress.com/item/1005008441306459.html?spm=a2g0o.order_list.order_list_main.5.96b218026ZKrhrhttps://www.aliexpress.com/item/1005008441306459.html?spm=a2g0o.order_list.order_list_main.5.96b218026ZKrhr) |
 | HTD 3M Timing Pulley (80 Teeth) | 1 | Torque transmission M2-J2 | [Link](https://www.aliexpress.com/item/1005007835192076.html?spm=a2g0o.order_list.order_list_main.15.96b218026ZKrhr) |
-| HTD 3M Timing Pulley (150 Teeth) | 1 | Torque transmission M1-J1 | [3D Printed]() |
+| HTD 3M Timing Pulley (150 Teeth) | 1 | Torque transmission M1-J1 | [3D Printed](https://github.com/AndrewC3870/AIMS-Articulated-Intelligent-Manipulation-System/blob/e1582351b9eff7f9d4ed971e265c47a4c45c2014/step-files/Pulley.step) |
 | HTD 3M Timing Belts (276, 357, 390, 681) | 4 | Torque transmission (1 of each) | [Link](https://www.aliexpress.com/item/1005008698694885.html?spm=a2g0o.order_list.order_list_main.25.96b218026ZKrhr) |
 | GT2 Pulley (20 Teeth) | 2 | Motor to gearbox torque transmission J5 | [Link](https://www.aliexpress.com/item/1005008698694885.html?spm=a2g0o.order_list.order_list_main.25.96b218026ZKrhr) |
 | GT2 Belt (124mm) | 1 | Motor to gearbox torque transmission J5 | [Link](https://www.aliexpress.com/item/1005008878754443.html?spm=a2g0o.order_list.order_list_main.40.96b218026ZKrhr) |
