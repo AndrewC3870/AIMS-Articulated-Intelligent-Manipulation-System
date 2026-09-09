@@ -1,3 +1,24 @@
-# AIMS-Articulated-Intelligent-Manipulation-System
+# AIMS: Articulated Intelligent Manipulation System
 
-A low-cost six-degree-of-freedom robotic manipulator with fully integrated Cartesian control. The system runs entirely on an ESP32-S3 microcontroller, handling inverse kinematics, motion planning, calibration, and teach-and-repeat functionality without requiring an external computer. A web interface enables wireless control from any browser, while a separate computer vision module based on OpenCV and YOLO performs ob- ject detection and workspace mapping. The robot uses stepper motors with belt transmissions and planetary gear reductions to achieve high resolution in a low-cost design. A real-angle joint model simplifies the kinematics, and gravity-induced deformation compensation improves accuracy under load. Experimental results indicate sub-millimeter repeatability and efficient vision-guided manipulation within a workspace of approximately 750 mm.
+<p align="center">
+  <img src="images/full_robot.png" width="50%" />
+  <img src="images/AIMS.jpg" width="40%" />
+</p>
+
+> **A low-cost, six-degree-of-freedom (6-DoF) robotic manipulator with fully integrated Cartesian control.**
+
+---
+
+## Key Features
+
+*   **Standalone Operation:** The system runs entirely on an **ESP32-S3** microcontroller. It handles inverse kinematics, motion planning, calibration, and teach-and-repeat functionality without requiring an external computer.
+*   **Wireless Web Interface:** Enables intuitive, wireless control of the robot directly from any web browser.
+*   **Computer Vision Integration:** A separate vision module powered by OpenCV and YOLO performs real-time object detection and workspace mapping.
+*   **High Resolution, Low Cost:** Built using stepper motors, belt transmissions, and planetary gear reductions to maximize precision while keeping hardware costs down.
+*   **Advanced Kinematics:** Utilizes a real-angle joint model to simplify kinematics, paired with gravity-induced deformation compensation to significantly improve accuracy under load.
+
+## Performance & Capabilities
+
+*   **Repeatability:** Sub-millimeter accuracy.
+*   **Workspace Range:** Approximately 750 mm.
+*   **Applications:** Highly efficient vision-guided manipulation and automated tasks.
