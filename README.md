@@ -56,3 +56,6 @@
 | CAT5e Wire | 1 | Wiring for data | [Link](https://www.bricodepot.ro/cablu-retea-utp-cat5e-omnicable-alb-metru/cpd/100866006/) |
 | 2.5mm² Wire | 1 | Wiring for power | [Link](https://www.bricodepot.ro/cablu-electric-omnicable-myym-4-x-2-5mm2-alb-metru/cpd/100866026/) |
 | Bolts and Nuts | A lot | Assembly | Brico |
+
+
+Now I'm working on an Assembly manual, will be added soon!
